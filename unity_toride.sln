@@ -1,8 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{50CEC0B3-495D-0B17-0D22-8BE3C35D7535}") = "unity_toride", "Assembly-UnityScript-firstpass.unityproj", "{5E19C6CE-B42F-71C6-B673-A6F85B7CAA67}"
-EndProject
 Project("{50CEC0B3-495D-0B17-0D22-8BE3C35D7535}") = "unity_toride", "Assembly-UnityScript.unityproj", "{D546AE00-EDE2-824A-3F46-B0929969E5A0}"
 EndProject
 Global
@@ -11,10 +9,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5E19C6CE-B42F-71C6-B673-A6F85B7CAA67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5E19C6CE-B42F-71C6-B673-A6F85B7CAA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5E19C6CE-B42F-71C6-B673-A6F85B7CAA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5E19C6CE-B42F-71C6-B673-A6F85B7CAA67}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D546AE00-EDE2-824A-3F46-B0929969E5A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D546AE00-EDE2-824A-3F46-B0929969E5A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D546AE00-EDE2-824A-3F46-B0929969E5A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -23,7 +17,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-															GlobalSection(MonoDevelopProperties) = preSolution
+																									GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
