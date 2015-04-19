@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\cannonScript.js">
+    <Files>
+      <File FileName="Assets\cannonScript.js" Line="68" Column="20" />
+      <File FileName="Assets\terrainScript.js" Line="1" Column="1" />
+      <File FileName="Assets\ballScript.js" Line="1" Column="1" />
+      <File FileName="Assets\MainScript.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
